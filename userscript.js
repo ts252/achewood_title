@@ -11,6 +11,19 @@
 // @grant        none
 // ==/UserScript==
 
+// ==OpenUserJS==
+// @author a_steady_pair_of_hands
+// ==/OpenUserJS==
+
+/**
+  *
+  * Please begin typing or paste your User script now.
+  *
+  * NOTE: It is still strongly recommended to use the Author Tools panel to
+  *       add your `@updateURL` even if we are not in lockdown.
+  *
+  */
+
 
 (function() {
     'use strict';

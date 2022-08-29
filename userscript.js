@@ -1,13 +1,16 @@
 // ==UserScript==
 // @name         Achewood Title and Alt
-// @namespace    http://tampermonkey.net/
+// @copyright    Public Domain
+// @license      Public Domain
 // @version      0.1
 // @description  add title and alt text to achewood
 // @author       a_steady_pair_of_hands
 // @match        http://achewood.com/*
+// @updateURL    https://openuserjs.org/meta/a_steady_pair_of_hands/achewood_title.meta.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=achewood.com
 // @grant        none
 // ==/UserScript==
+
 
 (function() {
     'use strict';

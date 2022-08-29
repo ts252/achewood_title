@@ -1,4 +1,5 @@
 // ==UserScript==
+// @namespace     https://openuserjs.org/users/a_steady_pair_of_hands
 // @name         Achewood Title and Alt
 // @copyright    Public Domain
 // @license      Public Domain
@@ -6,6 +7,7 @@
 // @description  add title and alt text to achewood
 // @author       a_steady_pair_of_hands
 // @match        http://achewood.com/*
+// @include      http://achewood.com/*
 // @updateURL    https://openuserjs.org/meta/a_steady_pair_of_hands/achewood_title.meta.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=achewood.com
 // @grant        none
@@ -14,15 +16,6 @@
 // ==OpenUserJS==
 // @author a_steady_pair_of_hands
 // ==/OpenUserJS==
-
-/**
-  *
-  * Please begin typing or paste your User script now.
-  *
-  * NOTE: It is still strongly recommended to use the Author Tools panel to
-  *       add your `@updateURL` even if we are not in lockdown.
-  *
-  */
 
 
 (function() {

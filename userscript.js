@@ -1,8 +1,7 @@
 // ==UserScript==
 // @namespace     https://openuserjs.org/users/a_steady_pair_of_hands
 // @name         Achewood Title and Alt
-// @copyright    Public Domain
-// @license      Public Domain
+// @license      MIT
 // @version      0.1
 // @description  add title and alt text to achewood
 // @author       a_steady_pair_of_hands
